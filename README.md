@@ -1,4 +1,4 @@
-#JavaScript Arithmetic
+# JavaScript Arithmetic
 
 ## Problem Statement
 Up until now, we've been introducing a lot of different variables and website
@@ -338,3 +338,14 @@ comfortable with using it. This lesson gives you an overview of some of the
 methods that are built in to JavaScript, but remember to use Google to look
 around for other methods that might be built in as well. Play around with the
 different methods in console, and you'll be a pro in no time!
+
+## Resources
+- MDN
+  + [Basic math in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+  + [Arithmetic operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
+  + [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+  + [Assignment operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
+  + [`NaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+  + [`Number`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+  + [`Math`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+- [2ality — How numbers are encoded in JavaScript](http://2ality.com/2012/04/number-encoding.html)
