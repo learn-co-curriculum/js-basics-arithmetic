@@ -52,7 +52,12 @@ problem that the decimal system has in trying to represent `1/3` as
 
 The only time you'd really have to worry about this is if you needed to
 calculate something to a high degree of precision, like interest payments for a
-bank. For most of our day-to-day arithmetic needs, JavaScript is more than
+bank. Or the trajectory for a rocket-ship. Please, don't use JavaScript for
+those purposes.
+
+![Don't use JavaScript for precise work](https://media.giphy.com/media/RjoLWhQBFEcHS/giphy.gif)
+
+For most of our day-to-day arithmetic needs, JavaScript is more than
 capable.
 
 ## Employ Operators to Perform Arithmetic and Assign Values to Variables
