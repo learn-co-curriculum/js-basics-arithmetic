@@ -55,7 +55,7 @@ calculate something to a high degree of precision, like interest payments for a
 bank. Or the trajectory for a rocket-ship. Please, don't use JavaScript for
 those purposes.
 
-![Don't use JavaScript for precise work](https://media.giphy.com/media/RjoLWhQBFEcHS/giphy.gif)
+![Don't use JavaScript for precise work](https://media.giphy.com/media/14mXrKfiQA1swo/giphy.gif)
 
 For most of our day-to-day arithmetic needs, JavaScript is more than
 capable.
