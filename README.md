@@ -93,7 +93,7 @@ number:
 //=> 214.3095238095238
 ```
 
-#### `%`
+#### `%` 
 The remainder operator returns the remainder when the left number is divided by
 the right number:
 ```js
@@ -101,13 +101,19 @@ the right number:
 //=> 13
 ```
 
+In some documentation this is called the _modulus_ operator.
+
 #### `**`
 The exponentiation operator returns the left number raised to the power of the
 right number:
+
 ```js
 2 ** 8;
 //=> 256
 ```
+
+While HTML can _display_ 2<sup>8</sup>, it needs us to write exponentiation with
+`**`.
 
 #### Order of operations
 JavaScript evaluates compound arithmetic operations by following the familiar
@@ -127,7 +133,7 @@ addition and subtraction.
 //=> 1
 ```
 
-#### Incrementing and decrementing
+#### Incrementing and Decrementing
 JavaScript also has a pair of operators that we can use to increment and
 decrement a numerical value stored in a variable.
 
